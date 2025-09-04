@@ -776,7 +776,7 @@ a {
 }
 
 .footer .list a:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: #fff;
 }
 
